@@ -42,7 +42,7 @@ A brief introduction about myself.
 
 
 ## Connect with me:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Pratik_10072008)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/PratikMistry10072008)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-mistry-5aba30369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
